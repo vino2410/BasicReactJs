@@ -17,8 +17,8 @@ export const Number=()=>
     return(
         <>
         <button className="btn btn-outline-Primary" onClick={add} onDoubleClick={fun}>
-            
-            <span style={{backgroundColor:'red'}}>onclick - {count}</span>
+        onclick -
+            <span style={{backgroundColor:'burlywood'}}> {count}</span>
         </button>
         </> 
 

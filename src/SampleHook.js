@@ -7,7 +7,7 @@ export const Hook=()=>
 
     const print=()=>
     {
-        alert(user+ "Has been successfully added")
+        alert(user+ "has been successfully added")
     }
 
     const result=(name)=>
